@@ -35,3 +35,7 @@ pythonw quickshot.py     # 后台启动
 
 - "直接发送"刻意不做：截屏瞬间焦点在被截窗口上，脚本替你按键会把图贴错地方。F9 → 切到目标窗口 → 粘贴，是最短且可靠的链路。
 - 剪贴板写入格式为 CF_DIB，兼容主流应用的粘贴。
+
+## 反馈
+
+遇到问题或想要新功能，到 [Issues](https://github.com/lotuswu2580-dev/fuplus-tools/issues) 提一句就行。
